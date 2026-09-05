@@ -1,6 +1,6 @@
-# 👋🏽 Hi, I'm Slindokuhle
+# Hi, I'm Slindokuhle
 
-### 🎓 Third-Year Software Development Student | 📊 Aspiring Data Analyst
+### Third-Year Software Development Student | Aspiring Data Analyst
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Development-Student-6A5ACD?style=for-the-badge" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 I'm a **third-year Software Development student** with a growing passion for **Data Analytics, Business Intelligence, and data-driven problem solving**.
 
@@ -18,18 +18,18 @@ My current foundation is built around **software development, SQL, and databases
 
 I enjoy exploring how **technology + data** can be used to:
 
-* 📈 Improve business performance
-* 👥 Understand customer behaviour
-* 💡 Discover meaningful insights
-* 🔍 Identify real-world problems
-* 🎯 Support better decision-making
-* 🚀 Create practical business value
+* Improve business performance
+* Understand customer behaviour
+* Discover meaningful insights
+* Identify real-world problems
+* Support better decision-making
+* Create practical business value
 
-> 💭 **I don't just want to work with data — I want to understand the story behind it.**
+> **I don't just want to work with data — I want to understand the story behind it.**
 
 ---
 
-## 💭 My Philosophy
+## My Philosophy
 
 > **"Don't just collect data. Understand the story behind it, find the problem, and turn the insight into a decision."**
 
@@ -45,11 +45,11 @@ My long-term goal is to become a **Data Analyst** who combines a Software Develo
 
 I'm particularly interested in:
 
-| 🏦 Banking                 | 🛒 Retail & E-commerce          |
-| -------------------------- | ------------------------------- |
-| 💳 Fintech                 | 📊 Business Intelligence        |
-| 📱 Telecommunications      | 📈 Customer Analytics           |
-| 🏢 Large Private Companies | 🔎 Business & Product Analytics |
+|  Banking                 |  Retail & E-commerce          |
+| -------------------------| ------------------------------- |
+|  Fintech                 |  Business Intelligence        |
+|  Telecommunications      |  Customer Analytics           |
+|  Large Private Companies |  Business & Product Analytics |
 
 I'm especially interested in analysing:
 
@@ -57,9 +57,9 @@ I'm especially interested in analysing:
 
 ---
 
-# 🛠️ Technical Skills
+#  Technical Skills
 
-### 💻 Software Development
+### Software Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -68,7 +68,7 @@ I'm especially interested in analysing:
   <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
-### 🗄️ Data & Databases
+### Data & Databases
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" />
@@ -82,7 +82,7 @@ I'm especially interested in analysing:
 * Data Modelling
 * Database Design
 
-### 🔧 Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -92,11 +92,11 @@ I'm especially interested in analysing:
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 I'm actively building my Data Analytics toolkit:
 
-### 🐍 Python & Data Analysis
+### Python & Data Analysis
 
 * Python
 * Pandas
@@ -104,7 +104,7 @@ I'm actively building my Data Analytics toolkit:
 * Matplotlib
 * Python for Data Analysis
 
-### 📊 Analytics & Business Intelligence
+### Analytics & Business Intelligence
 
 * Power BI
 * Excel for Data Analysis
@@ -114,22 +114,22 @@ I'm actively building my Data Analytics toolkit:
 * Business Intelligence
 * Data Storytelling
 
-> 🚀 **My goal is to move from writing software to using data to explain problems, discover opportunities, and support business decisions.**
+>  **My goal is to move from writing software to using data to explain problems, discover opportunities, and support business decisions.**
 
 ---
 
-# 💼 Career Interests
+# Career Interests
 
 I'm interested in opportunities such as:
 
-* 📊 Junior Data Analyst
-* 🎓 Graduate Data Analyst
-* 💻 Data Analyst Intern
-* 📈 Business Intelligence Analyst
-* 📑 Reporting Analyst
-* 🔎 Data & Insights Analyst
-* 📊 Junior BI Analyst
-* 🚀 Analytics Graduate
+*  Junior Data Analyst
+*  Graduate Data Analyst
+*  Data Analyst Intern
+*  Business Intelligence Analyst
+*  Reporting Analyst
+*  Data & Insights Analyst
+*  Junior BI Analyst
+*  Analytics Graduate
 
 I'm particularly interested in organisations where **data is used to solve meaningful business and customer problems**.
 
@@ -152,12 +152,12 @@ Software Development
         ↓
  Business Intelligence
         ↓
-     DATA ANALYST 📊
+     DATA ANALYST 
 ```
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 I'm always interested in connecting with people working in:
 
@@ -165,22 +165,22 @@ I'm always interested in connecting with people working in:
 
 I'm open to:
 
-🎓 Graduate opportunities
-💼 Internships
-📊 Junior Data Analyst roles
-🔎 Data & Insights opportunities
-🚀 Opportunities to learn, contribute, and grow
+ Graduate opportunities
+ Internships
+ Junior Data Analyst roles
+ Data & Insights opportunities
+ Opportunities to learn, contribute, and grow
 
 ---
 
-## ⭐ Thanks for Visiting!
+##  Thanks for Visiting!
 
 Thanks for taking the time to explore my GitHub profile.
 
 If you're interested in **data, technology, software development, or business intelligence**, feel free to connect and explore my projects.
 
 <p align="center">
-  <strong>💡 Data tells the story. Analysis gives it meaning. Decisions create the impact.</strong>
+  <strong> Data tells the story. Analysis gives it meaning. Decisions create the impact.</strong>
 </p>
 
 <p align="center">
